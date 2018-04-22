@@ -7,6 +7,8 @@ This repo is used to record some search skills for googling.
 The skills to be introduced may be roughly divided into three categories: location-directed, content-directed and others.
 
 - ## location-directed 
+In this way, we can filter pages according the location. specifically, we can use the site and url of a page
+to control the location.
 
 - ### site
 By its very name, we can tune our search to make result limited to some specific location and by location, 
@@ -37,7 +39,7 @@ For example, we wanna the url of pages containing **zju and/or cs** , so we can 
 The key difference between inurl and allinurl is that the latter one requires all the keywords be contained in url, while
 the former require at least one of keywords represent in url. The following picture shows the result with using **allinurl**:
 
-![allinurl_example](./pictures/allincul_example.png)
+![allinurl_example](./pictures/allinurl_example.png)
 
 As far as I know, we can tune the site and url of pages to make result pages more closer to what we expected as to the 
 location of pages.
