@@ -27,21 +27,21 @@ have high-quality contents we may need, so we can tune our search like this:
 So the result pages now are all from the same domain of ***stackoverflow.com***.
 
 ### 1.2 url
-We can further do something on the url of pages. And in google we have two related operator: inurl and allinurl.
+We can further do something on the url of pages. And in google we have two related operators: inurl and allinurl.
 
 #### 1.2.1 inurl
 
-For example, we wanna the url of pages containing **zju and/or cs** , so we can construct our search like this:
+For example, we wanna pages whose urls contain **zju and/or cs** , so we can construct our search like this:
 
 ![inurl_example](./pictures/inurl_example.png)
 
 #### 1.2.2 allinurl
 The key difference between inurl and allinurl is that the latter one requires all the keywords be contained in url, while
-the former require at least one of keywords represent in url. The following picture shows the result with using **allinurl**:
+the former require at least one of keywords represent in url. The following picture shows the result using **allinurl**:
 
 ![allinurl_example](./pictures/allinurl_example.png)
 
-As far as I know, we can tune the site and url of pages to make result pages more closer to what we expected as to the 
+As far as I know, we can tune the site and url of pages to make result pages more closer to what we expect as to the 
 location of pages.
 
 ## 2. content-directed 
@@ -52,7 +52,7 @@ keyword **intitle, allintitle, intext, allintext and filetype** to achieve these
 Search pages whose titles matching some keyword. 
 
 #### 2.1.1 intitle
-For example, we wanna search pages whose titles containing the ***zju*** keyword, we can do like this:
+For example, we wanna search pages whose titles contain the ***zju*** keyword, we can do like this:
 
 ![intitle](./pictures/intitle.png)
 
@@ -66,7 +66,7 @@ picture, it does.
 #### 2.1.2 allintitle
 As I mentioned earlier, the operators prefixed with **all** require all the keywords exist simultaneously.
 
-For example, if we wanna search pages whose titles containing the ***zju*** keyword, we can do like this:
+For example, if we wanna search pages whose titles contain the ***zju*** keyword, we can do like this:
 
 ![allintitle](./pictures/allintitle.png)
 
@@ -104,7 +104,7 @@ search like this:
 
 ![after_use_filetype](./pictures/after_use_filetype.png)
 
-but if we don't use the filetype operator and just type **javascript pdf**, then we are likely not get expected results:
+but if we don't use the filetype operator and just type **javascript pdf**, then we are more likely not to get expected results:
 
 ![before_use_filetype](./pictures/before_use_filetype.png)
 
@@ -115,7 +115,7 @@ There are some operators can be used both in location-directed and content-direc
 
 ### 3.1 minus sign
 Eliminate irrelevant results.
-### 3.2 double quotes,
+### 3.2 double quotes
 Search an exact phrase.
 
 
