@@ -117,7 +117,12 @@ There are some operators can be used both in location-directed and content-direc
 Eliminate irrelevant results.
 ### 3.2 double quotes
 Search an exact phrase.
-
+### 3.3 asterisk
+Use an asterisk within quotes to specify unknown or variable words
+> Here’s a lesser known trick: searching a phrase in quotes with an asterisk replacing a word will search all 
+> variations of that phrase. It’s helpful if you’re trying to determine a song from its lyrics, but you couldn’t 
+> make out the entire phrase (e.g. "imagine all the * living for today"), or if you're trying to find all forms 
+> of an expression (e.g. "* is thicker than water").
 
 # Caveats
 > 
