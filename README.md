@@ -1,4 +1,4 @@
-# Intro
+# introduction
 This repo is used to record some search skills for googling.
 
 
@@ -124,7 +124,7 @@ Use an asterisk within quotes to specify unknown or variable words
 > make out the entire phrase (e.g. "imagine all the * living for today"), or if you're trying to find all forms 
 > of an expression (e.g. "* is thicker than water").
 
-# Caveats
+# caveats
 > 
 > - every word in a query matters
 > - word order matters
