@@ -1,6 +1,11 @@
 # introduction
 This repo is used to record some search skills for googling.
 
+# basic
+Almost each result returned by google has three parts, and they are the **title**, **url** and **body**.
+As the following picture shows, the content in **red**, **light green** and **blue** box is **title**, **url** and **body** part respectively.
+
+![three_parts_of_result](./pictures/three_parts_of_result.png)
 
 # advanced search skills
 
