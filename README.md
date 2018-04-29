@@ -136,7 +136,9 @@ Use an asterisk within quotes to specify unknown or variable words
 > - words are case-insensitive
 > - never trust one source
 
-
+# tips
+- Keep in mind that we should tune our search for good result. So if you are not satisfied with the result returned, you can
+try to tune the search until you find what is expected.
 
 # resources
 For more advanced search skills, you can visit the following two links.
