@@ -144,7 +144,8 @@ try to tune the search until you find what is expected.
 For more advanced search skills, you can visit the following two links.
 - [Search Smarter: 30+ Google Search Tricks You Might Not Already Know][1](blog)
 - [Google Search Education][2](videos)
-
+- [20 Google Search Tips to Use Google More Efficiently][3](blog)
 
 [1]:https://zapier.com/blog/advanced-google-search-tricks
 [2]:https://www.google.com/intl/en-us/insidesearch/searcheducation/
+[3]:https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html
